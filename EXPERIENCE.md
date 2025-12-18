@@ -1,7 +1,21 @@
 # Experience
 
-During this assignment, I explored the concept of vibe coding and modern AI-powered development tools. I learned how AI can assist developers not only by completing code, but also by understanding project context and developer intent.
+## Tool Selection Justification
+I chose Replit Agent for this project because it provides an AI-assisted, browser-based development environment that allows rapid project creation without requiring complex local setup. Its conversational interface made it especially suitable for quickly building and iterating on a small web application like a Todo List.
 
-I created and managed a GitHub repository using a mobile device, which helped me improve my understanding of version control and documentation. Writing the analysis and documentation allowed me to reflect on the strengths and limitations of AI-assisted development.
+## Development Process
+I used Replit Agent to generate the initial structure of the Todo List application using HTML, CSS, and JavaScript. By describing the required features in natural language, the AI was able to create a working version of the application. I iterated on the generated code by refining prompts and requesting improvements to the user interface and functionality.
 
-Overall, this assignment helped me better understand how vibe coding tools can impact the future of software development and improve developer productivity.
+The development process involved several iterations to ensure all features worked correctly, especially task editing, completion status, and data persistence using localStorage.
+
+## Challenges and Solutions
+One challenge was ensuring that tasks were saved correctly between page reloads. The AI-generated solution using localStorage required minor adjustments to properly update and retrieve task data. Another challenge was improving the usability of the interface, which was addressed by requesting layout and styling improvements from the AI tool.
+
+Some manual code review and small edits were necessary to fully meet the project requirements.
+
+## Reflection
+This experience showed how vibe coding tools can significantly accelerate development by handling repetitive coding tasks. It changed my workflow by allowing me to focus more on feature design rather than syntax.
+
+I would consider using Replit Agent for future small projects or prototypes. Vibe coding tools have the potential to reshape software development by making programming more accessible and productive.
+
+
