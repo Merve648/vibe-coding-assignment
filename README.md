@@ -23,7 +23,9 @@ This project is a fully functional Todo List web application built using a vibe 
 3. Open the `index.html` file in your browser.
 
 ## Screenshot
-*(Screenshot will be added after project completion)*
+## Screenshot
+
+![Todo List App Screenshot](screenshot.png)
 
 ## Credits
 This project was created as part of a homework assignment exploring vibe coding tools and AI-assisted development.
